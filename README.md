@@ -1,3 +1,5 @@
+https://rviews.rstudio.com/2018/05/16/replacing-excel-reports-with-r-markdown-and-shiny/
+
 # Customer tracker
 
 These dashboards and reports track key performance metrics for customers by week. Users can interact with these reports in order to pull the precise data they are looking for. Read more about the customer tracker on [R Views](https://rviews.rstudio.com/2018/05/16/replacing-excel-reports-with-r-markdown-and-shiny/) or or view the code on [Github](https://github.com/sol-eng/customer-tracker).
